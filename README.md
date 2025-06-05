@@ -1,3 +1,3 @@
-# Tools-for-Data-Science
+# Data Science Fundamentals with Python and SQL
 
-This repo will be used for Assignments anr projects for the course "Data Tools for Data Science"
+This repo will be used for Assignments anr projects for the modules of the courses and their modules
