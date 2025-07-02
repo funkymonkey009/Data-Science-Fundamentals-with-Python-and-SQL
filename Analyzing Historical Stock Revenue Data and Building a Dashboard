@@ -1,1 +1,6 @@
-Analyzing Historical Stock Revenue Data and Building a Dashboard
+#Analyzing Historical Stock Revenue Data and Building a Dashboard
+
+import yfinance as yf
+import pandas as pd
+
+apple_share_price_data = apple.history(period="max")
